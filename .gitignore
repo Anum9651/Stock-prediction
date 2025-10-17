@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+.cache/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+
+# Docker
+*.log
+*.pid
+
+# System files
+.DS_Store
+Thumbs.db
